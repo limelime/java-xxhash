@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.FileInputStream;
  
 /**
- * Example showing how to get the hash value of a file using XXHash.
+ * Example showing how to get the hash value of a file using xxHash.
  * @author Xuan Ngo
  */
 public class XxhashFile
